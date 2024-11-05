@@ -2,4 +2,4 @@ title: "My GitHub Page"
 description: "Welcome to my GitHub Page powered by Jekyll."
 author: "Your Name"
 baseurl: ""  # Leave blank for GitHub Pages
-url: "https://yourusername.github.io"  # Replace with your GitHub Pages URL
+# Replace with your GitHub Pages URL
