@@ -4,4 +4,4 @@ title: "Welcome"
 ---
 Welcome to my GitHub Page! Here you'll find my projects, blog posts, and more.
 
-[Go to Blog](blog)
+
